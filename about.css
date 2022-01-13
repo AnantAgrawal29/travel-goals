@@ -1,0 +1,31 @@
+body {
+  background: url("images/about.jpg");
+  text-align: center;
+  font-family: sans-serif;
+}
+
+header {
+  position: static;
+}
+
+main img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+main div {
+  margin: 0 auto;
+  font-family: "Cairo", sans-serif;
+}
+
+main span {
+  text-decoration: underline;
+  color: rgb(0, 255, 221);
+}
+
+#about-text {
+  width: 500px;
+  color: rgb(22, 69, 88);
+  font-weight: 600;
+}
